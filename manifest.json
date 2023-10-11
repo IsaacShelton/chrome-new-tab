@@ -1,7 +1,7 @@
 {
-  "name": "Blank New Tab (with Dark Mode Support)",
+  "name": "Isaac's New Tab",
   "version": "3.0.0",
-  "description": "A blank new tab page that supports your system dark mode.",
+  "description": "My custom new tab page",
   "manifest_version": 3,
   "minimum_chrome_version": "88.0.0.0",
   "chrome_url_overrides": {
